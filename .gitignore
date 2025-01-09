@@ -1,0 +1,2 @@
+# Exclude all files with a .npy extension
+*.npy
