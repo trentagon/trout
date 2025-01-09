@@ -1,3 +1,19 @@
+```
+ o
+o      ______/~/~/~/__           /((
+  o  // __            ====__    /_((
+ o  //  @))       ))))      ===/__((
+    ))           )))))))        __((
+    \\     \)     ))))    __===\ _((
+     \\_______________====      \_((
+                                 \((
+| |                 | |
+| |_ _ __ ___  _   _| |_
+| __| '__/ _ \| | | | __|
+| |_| | | (_) | |_| | |_
+ \__|_|  \___/ \__,_|\__|
+```
+
 A model for studying the [TR]APPIST-1 exoplanet's ability to volcanically [OUT]gas water and other volatiles. Developed by Trent Thomas.
 
 This is a directory of python codes used to assess how much water the interiors of the TRAPPIST-1 planets may hold, and how that water could be supplied to the exterior of these planets via volcanic outgassing. A full model description is found in the associated manuscript:
